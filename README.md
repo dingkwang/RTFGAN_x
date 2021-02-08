@@ -3,10 +3,10 @@ RTFGAN
 
 RTFGAN is a robotics class project to inspired by [RTFNet](https://github.com/yuxiangsun/RTFNet/). Some of the code are borrowed from classmates. 
 
-<img src="Result/fake.jpg" width="300px"/>
+<img src="Results/fake.jpg" width="300px"/>
 
-<img src="Result/real.jpg" width="300px"/>
-<img src="Result/thermal.jpg" width="300px"/>
+<img src="Results/real.jpg" width="300px"/>
+<img src="Results/thermal.jpg" width="300px"/>
 
 
 The current version supports Python>=3.6, CUDA>=11.1 and PyTorch>=1.7.1, but it should work fine with lower versions of CUDA and PyTorch. The training runs on [HIPERGATOR 3.0](https://www.rc.ufl.edu/services/hipergator/).
